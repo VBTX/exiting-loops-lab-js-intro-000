@@ -5,6 +5,7 @@ function breakOut(array, changeValue, stopValue){
     } else{
       break
     }
+    array
   }
 }
 
