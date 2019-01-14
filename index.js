@@ -5,8 +5,8 @@ function breakOut(array, changeValue, stopValue){
       break;
     } array[i] = changeValue;
       newA.push(array[i]);
-    }
       return newA;
+    }
     }
 
 
