@@ -6,10 +6,9 @@ function breakOut(array, changeValue, stopValue){
     } array[i] = changeValue;
       newA.push(array[i]);
     } 
-
-    }
       return newA;
-}
+    }
+
 
 
 function keepGoing(array, changeValue, skipValue){
